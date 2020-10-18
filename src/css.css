@@ -9,7 +9,7 @@ body{
 	font-size: 15px;
 	line-height: 1.7;
 	color: #102770;
-	background-color: #ffeba7;
+	background-color : #4D4E4F  ;
 	overflow-x: hidden;
 }
 a {
@@ -73,7 +73,7 @@ a:hover {
   position: absolute;
   content: '';
   z-index: -2;
-  background-color: #102770;
+  background-color: #4D4E4F;
   width: 100%;
   height: 100%;
   display: block;
@@ -85,7 +85,7 @@ a:hover {
   position: absolute;
   content: '';
   z-index: -1;
-  background-color: #ffeba7;
+  background-color: #102770;
   width: 128px;
   height: 40px;
   display: block;
