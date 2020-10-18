@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+
+:root{
+  font-size: 20px;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 1.7;
+	color: #102770;
+	background-color: #ffeba7;
+	overflow-x: hidden;
+}
